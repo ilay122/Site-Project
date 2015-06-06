@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<news>
+  <report>
+    <header>News are working properly</header>
+    <date>2015/03/30 17:03:30</date>
+    <writer>ilay uzon</writer>
+    <content>i just wanted to let you know that adding news is working just fine and all the other stuff work as intended too (not including sql injection tho).
+ty for visiting this site !</content>
+  </report>
+</news>

@@ -1,0 +1,24 @@
+d:\users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\bin\PEGS.dll.config
+d:\users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\bin\PEGS.dll
+d:\users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\bin\PEGS.pdb
+d:\users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\obj\Debug\PEGS.dll
+d:\users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\obj\Debug\PEGS.pdb
+D:\Users\ilayu\documents\visual studio 2013\Projects\PEGS\PEGS\obj\Debug\PEGS.csprojResolveAssemblyReference.cache
+F:\PEGS\PEGS\bin\PEGS.dll.config
+F:\PEGS\PEGS\bin\PEGS.dll
+F:\PEGS\PEGS\bin\PEGS.pdb
+F:\PEGS\PEGS\obj\Debug\PEGS.csprojResolveAssemblyReference.cache
+F:\PEGS\PEGS\obj\Debug\PEGS.dll
+F:\PEGS\PEGS\obj\Debug\PEGS.pdb
+H:\PEGS\PEGS\bin\PEGS.dll.config
+H:\PEGS\PEGS\bin\PEGS.dll
+H:\PEGS\PEGS\bin\PEGS.pdb
+H:\PEGS\PEGS\obj\Debug\PEGS.csprojResolveAssemblyReference.cache
+H:\PEGS\PEGS\obj\Debug\PEGS.dll
+H:\PEGS\PEGS\obj\Debug\PEGS.pdb
+C:\Users\user\Desktop\Games\PEGS\PEGS\bin\PEGS.dll.config
+C:\Users\user\Desktop\Games\PEGS\PEGS\bin\PEGS.dll
+C:\Users\user\Desktop\Games\PEGS\PEGS\bin\PEGS.pdb
+C:\Users\user\Desktop\Games\PEGS\PEGS\obj\Debug\PEGS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Games\PEGS\PEGS\obj\Debug\PEGS.dll
+C:\Users\user\Desktop\Games\PEGS\PEGS\obj\Debug\PEGS.pdb
